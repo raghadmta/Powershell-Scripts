@@ -13,3 +13,6 @@ These are a Collocation of PowerShell Scripts basics to perform logical operatio
 
 - [foreach.ps1](https://github.com/raghadmta/Powershell-Scripts/blob/d8424d70a6efce8cee71ccee282403913da6283e/foreach.ps1) -> A script to print list of any four Provinces of Saudi Arabia using “foreach”
 
+---
+###### This project was part of Saudi Digital Acadmy's ( SDA ) DevOps BootCamp 2022
+
